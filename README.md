@@ -1,2 +1,2 @@
-# icxc
-ICXC Journal Website
+# MIT-et-Spiritus
+MIT et Spiritus Journal website
